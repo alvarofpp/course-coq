@@ -72,7 +72,7 @@ Proof.
   intro Habc.
   destruct Habc as [Ha [Hb|Hc]].
   +
-    intro HaCbDaCc
+    split.
   intro.
   intro.
   intro.
