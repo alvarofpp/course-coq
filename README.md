@@ -12,3 +12,4 @@ Repositório para guardar as resoluções dos exercícios apresentados no curso 
 - [Lógica proposicional e de predicados](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq)
   - [Implicação](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#implica%C3%A7%C3%A3o)
   - [Conjunção](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#conjun%C3%A7%C3%A3o)
+  - [Disjunção](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#disjun%C3%A7%C3%A3o)
