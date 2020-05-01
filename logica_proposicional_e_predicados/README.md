@@ -1,0 +1,13 @@
+# [Lógica proposicional e de predicados](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq)
+
+- [Implicação](/implicacao/)
+  - [Exercício 01](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#exerc%C3%ADcio-1)
+  - [Exercício 02](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#exerc%C3%ADcio-2)
+- [Conjunção](/conjuncao/)
+  - [Exercício 03](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#exerc%C3%ADcio-3)
+  - [Exercício 04](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#exerc%C3%ADcio-4)
+  - [Exercício 05](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#exerc%C3%ADcio-5)
+  - [Exercício 06](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#exerc%C3%ADcio-6)
+- [Disjunção](/disjuncao/)
+  - [Exercício 07](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#exerc%C3%ADcio-7)
+  - [Exercício 08](https://rodrigogribeiro.github.io/posts/2018/01/logic-in-coq#exerc%C3%ADcio-8)
