@@ -14,3 +14,5 @@ Repositório para guardar as resoluções dos exercícios apresentados no curso 
   - [Disjunção](/logica_proposicional_e_predicados/disjuncao/)
   - [Quantificadores universal e existencial](/logica_proposicional_e_predicados/quantificadores_universal_existencial/)
 - [Tipos indutivos e indução matemática](https://rodrigogribeiro.github.io/posts/2018/01/inductive-types)
+  - [Tipos indutivos](/tipos_indutivos_inducao_matematica/tipos_indutivos/)
+  - [Booleanos](/tipos_indutivos_inducao_matematica/booleanos/)
