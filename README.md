@@ -16,3 +16,8 @@ Repositório para guardar as resoluções dos exercícios apresentados no curso 
 - [Tipos indutivos e indução matemática](https://rodrigogribeiro.github.io/posts/2018/01/inductive-types)
   - [Tipos indutivos](/tipos_indutivos_inducao_matematica/tipos_indutivos/)
   - [Booleanos](/tipos_indutivos_inducao_matematica/booleanos/)
+- [Tácticas adicionais e automação de provas](https://rodrigogribeiro.github.io/posts/2018/01/tactics)
+- [Programação com tipos dependentes](https://rodrigogribeiro.github.io/posts/2018/01/dependent-types)
+- [Formalizando uma linguagem simples](https://rodrigogribeiro.github.io/posts/2018/01/semantics)
+- [Classes de tipos em Coq](https://rodrigogribeiro.github.io/posts/2018/01/typeclasses)
+- [Estudo de caso - Formalizando o Insertion sort](https://rodrigogribeiro.github.io/posts/2018/01/insertion-sort)
